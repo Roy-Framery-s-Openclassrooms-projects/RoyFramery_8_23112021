@@ -1,4 +1,4 @@
- ![Légende](https://github.com/Roy-Framery-s-Openclassrooms-projects/RoyFramery_5_26072021/blob/main/images/CodinGame_Logo.png)
+ ![Légende](https://github.com/Roy-Framery-s-Openclassrooms-projects/RoyFramery_8_23112021/blob/main/images/CodinGame_Logo.png)
 
 ---
 
@@ -14,12 +14,12 @@ This is a test :
 
 This test concerns the following language :
 
-![Légende](https://github.com/Roy-Framery-s-Openclassrooms-projects/RoyFramery_5_26072021/blob/main/images/javascript.png)
+![Légende](https://github.com/Roy-Framery-s-Openclassrooms-projects/RoyFramery_8_23112021/blob/main/images/javascript.png)
 
 ---
 
 ## The result
-![Légende](https://github.com/Roy-Framery-s-Openclassrooms-projects/RoyFramery_5_26072021/blob/main/images/results.png)
+![Légende](https://github.com/Roy-Framery-s-Openclassrooms-projects/RoyFramery_8_23112021/blob/main/images/results.png)
 
 ## Author info 
 - LinkedIn - [Roy Framery](https://www.linkedin.com/in/roy-framery/)
